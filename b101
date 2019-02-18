@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main()
+{
+    char s[1000];
+   int n,l,i;
+   gets(s);
+   scanf("%d",&N);
+   l=strlen(s);
+   
+for(i=l;i>n;i--)
+{
+    
+    
+    printf("%c",s[i]);
+}
+
+   
+    return 0;
+}
